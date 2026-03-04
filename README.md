@@ -56,6 +56,3 @@ En Licence économie-gestion spécialisé en **Économie Appliquée et Analyse d
 ### 🤝 Contactez-moi
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hetagourovnika@gmail.com)
-
-### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nika-Hetagourov&layout=compact&theme=vision-fast-gradient)
