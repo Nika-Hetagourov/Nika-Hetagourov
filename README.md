@@ -56,3 +56,7 @@ En Licence économie-gestion spécialisé en **Économie Appliquée et Analyse d
 ### 🤝 Contactez-moi
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hetagourovnika@gmail.com)
+
+**Langues :**
+![Français](https://img.shields.io/badge/Français-Maternel-blue)
+![Anglais Business](https://img.shields.io/badge/Anglais_Business-Professionnel-brightgreen)
