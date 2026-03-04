@@ -31,6 +31,10 @@ En Licence économie-gestion spécialisé en **Économie Appliquée et Analyse d
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+**Langues :**
+![Français](https://img.shields.io/badge/Français-Maternel-blue)
+![Anglais Business](https://img.shields.io/badge/Anglais_Business-Professionnel-brightgreen)
+
 ---
 
 ### 🏆 Projets Mis en Avant
@@ -57,8 +61,3 @@ En Licence économie-gestion spécialisé en **Économie Appliquée et Analyse d
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hetagourovnika@gmail.com)
 
-
-
-**Langues :**
-![Français](https://img.shields.io/badge/Français-Maternel-blue)
-![Anglais Business](https://img.shields.io/badge/Anglais_Business-Professionnel-brightgreen)
